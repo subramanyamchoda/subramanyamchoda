@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chodasubramanyam
-- 👀 I’m interested in MERN STACk and UI/UX Designing
+- 👀 I’m interested in MERN STACk and Machine Learning
 - 🌱 I’m currently learning Full Stack Web Development
 - 💞️ I’m looking to collaborate on building the websites
 - ⚡ I have some knowledge of some programming languages ​​like c, java, python and javascript.
