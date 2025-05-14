@@ -61,7 +61,8 @@
 - 🌙 **Dark Mode UI** – Clean, responsive interface with light/dark mode toggle
 - 💾 **File Management** – List, preview, and delete files
 - 📊 **Progress Bar** – Real-time upload progress tracker
-- 🧩 Built using **MERN + Tailwind CSS + Firebase Storage**
+- 🧩 Built using **MERN + Tailwind CSS + MongoDB Atals Storage + Framer Motion **
+  
 🔗 [Live Demo](https://pandafiles.vercel.app/)
 
 ---
@@ -78,6 +79,7 @@
 - 🖼️ **Property Preview** – Images, description, location and price info shown for each listing
 - 🔒 **User Authentication** – Role-based login system with access control
 - ⚡ Real-time updates, animations, and responsive UI for a smooth UX
+- 🧩 Built using **MERN + Tailwind CSS + MongoDB Atals Storage + Framer Motion + JWT SECURITY **
 🔗 [Live Demo](https://easyhomes7.vercel.app/)
 
 ---
