@@ -5,6 +5,7 @@
 💡 Always excited to **collaborate** on innovative web apps  
 📚 Proficient in **C, Java, Python, JavaScript**, and love turning ideas into products  
 🚀 Portfolio Projects:  
+![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda)
 
 ---
 ## 🌐 Let's Connect:
