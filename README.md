@@ -48,21 +48,61 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
-# 📊 My Project Stats:
+# 📊 My Project Stats
+
 ## 🐼 PandaFiles – Secure File Manager (MERN Stack)
-A powerful file management platform where users can:
-- 🔐 Upload and manage files securely
-- 🧾 Log in using **Google Authentication**
-- 📁 Access, preview, and download stored files
-- 🌙 Enjoy a clean **dark mode** UI for productivity
+
+**PandaFiles** is a modern and secure file management web application built using the **MERN stack** (MongoDB, Express, React, Node.js). It allows users to effortlessly **upload, store, manage, and download files** in a secure environment with Google Authentication.
+
+### 🚀 Features:
+- 🔐 **Authentication** – Sign in using **Google OAuth2** for secure access
+- 📁 **File Upload & Download** – Upload any file type and download instantly
+- 🗂️ **File Type Handling** – Supports images, PDFs, documents, and more
+- 🌙 **Dark Mode UI** – Clean, responsive interface with light/dark mode toggle
+- 💾 **File Management** – List, preview, and delete files
+- 📊 **Progress Bar** – Real-time upload progress tracker
+- 🧩 Built using **MERN + Tailwind CSS + Firebase Storage**
+
+### 🧪 Tech Stack:
+- Frontend: React.js, Tailwind CSS
+- Backend: Node.js, Express.js
+- Authentication: Firebase Google OAuth
+- Storage: Firebase Storage
+- Hosting: Vercel
+
 🔗 [Live Demo](https://pandafiles.vercel.app/)
+
 ---
+
 ## 🏠 EasyHomes – Smart Rental Platform (MERN Stack)
-A rental solution designed for both:
-- 👤 **Renters** – Post property listings with ease
-- 🏡 **Users** – Browse, search, and find the perfect home  
-- 🔍 Filter homes by area, city, and price
-- 💬 Contact renters after secure login
+
+**EasyHomes** is a smart rental platform that simplifies the house renting process for both **homeowners (renters)** and **tenants (users)**. The system provides a full-featured search, listing, and contact platform for rental properties.
+
+### 🏗️ Features:
+- 🧑‍💼 **Dual Roles** – Renters and Users with different functionalities
+- 🏡 **Property Listings** – Renters can add and manage homes for rent
+- 🔍 **Smart Search** – Users can search homes by **location, city, price**
+- 💬 **Secure Contact Access** – Users pay ₹50 and upload payment proof to access renter contact
+- 🖼️ **Property Preview** – Images, description, location and price info shown for each listing
+- 🔒 **User Authentication** – Role-based login system with access control
+- ⚡ Real-time updates, animations, and responsive UI for a smooth UX
+
+### 🧪 Tech Stack:
+- Frontend: React.js, Tailwind CSS, Framer Motion
+- Backend: Node.js, Express.js, MongoDB
+- Authentication: JWT, Google OAuth (planned)
+- Payment: UPI-based manual verification
+- Hosting: Vercel (frontend), Render (backend)
+- Media: Cloudinary (for image uploads)
+
 🔗 [Live Demo](https://easyhomes7.vercel.app/)
+
+---
+
+> Both of these projects reflect real-world full-stack development experience, focusing on secure authentication, clean UI/UX, and efficient backend data handling.
+>  
+> They demonstrate skills in **REST APIs, React hooks, Express middleware, file management, role-based systems, and frontend-backend integration**.
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
