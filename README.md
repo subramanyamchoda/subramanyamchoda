@@ -62,14 +62,6 @@
 - 💾 **File Management** – List, preview, and delete files
 - 📊 **Progress Bar** – Real-time upload progress tracker
 - 🧩 Built using **MERN + Tailwind CSS + Firebase Storage**
-
-### 🧪 Tech Stack:
-- Frontend: React.js, Tailwind CSS
-- Backend: Node.js, Express.js
-- Authentication: Firebase Google OAuth
-- Storage: Firebase Storage
-- Hosting: Vercel
-
 🔗 [Live Demo](https://pandafiles.vercel.app/)
 
 ---
@@ -86,15 +78,6 @@
 - 🖼️ **Property Preview** – Images, description, location and price info shown for each listing
 - 🔒 **User Authentication** – Role-based login system with access control
 - ⚡ Real-time updates, animations, and responsive UI for a smooth UX
-
-### 🧪 Tech Stack:
-- Frontend: React.js, Tailwind CSS, Framer Motion
-- Backend: Node.js, Express.js, MongoDB
-- Authentication: JWT, Google OAuth (planned)
-- Payment: UPI-based manual verification
-- Hosting: Vercel (frontend), Render (backend)
-- Media: Cloudinary (for image uploads)
-
 🔗 [Live Demo](https://easyhomes7.vercel.app/)
 
 ---
