@@ -6,6 +6,9 @@
 📚 Proficient in **C, Java, Python, JavaScript**, and love turning ideas into products  
 🚀 Portfolio Projects:  
 ![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact)
+![Subramanyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subramanyamchoda&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
 
 ---
 ## 🌐 Let's Connect:
