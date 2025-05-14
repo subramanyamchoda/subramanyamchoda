@@ -4,7 +4,6 @@
 🌱 Currently sharpening my skills in **Full Stack Web Development**  
 💡 Always excited to **collaborate** on innovative web apps  
 📚 Proficient in **C, Java, Python, JavaScript**, and love turning ideas into products  
-📬 Reach me at **subramanyamchoda1@gmail.com**  
 🚀 Portfolio Projects:  
 - 🐼 **PandaFiles** – File manager with Google authentication & secure uploads  
   👉 [Live Demo](https://pandafiles.vercel.app/)  
