@@ -84,6 +84,56 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact)
 
+
+<!-- Profile Views -->
+![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda&label=Profile%20views&color=0e75b6&style=flat)
+
+# 👋 Hi there, I'm Subramanyam Choda!
+🎓 Passionate CSE student | 💻 Full-Stack & MERN Developer | 🔐 Building Secure Web Apps
+
+---
+
+## 🚀 GitHub Stats & Contributions
+
+![Subramanyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subramanyamchoda&show_icons=true&theme=tokyonight&hide_title=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=subramanyamchoda&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=subramanyamchoda&theme=radical&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 💬 Dev Quote
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+
+## 🌍 Where My Visitors Are From
+
+![Visitor Map](https://api.visitorbadge.io/api/visitors?path=subramanyamchoda&label=Visitors&countColor=%23263759)
+
+---
+
+## 🗓️ GitHub Contribution Calendar
+
+[![Subramanyam's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=subramanyamchoda&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧠 Let's Connect!
+
+🌐 [Portfolio Website](https://your-portfolio-link.com)  
+📫 Email: yourname@email.com  
+💼 [LinkedIn](https://linkedin.com/in/your-link)
+
+
 > Both of these projects reflect real-world full-stack development experience, focusing on secure authentication, clean UI/UX, and efficient backend data handling.
 >  
 > They demonstrate skills in **REST APIs, React hooks, Express middleware, file management, role-based systems, and frontend-backend integration**.
