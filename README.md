@@ -159,8 +159,7 @@ A real-time data visualization dashboard that simulates a **rainwater harvesting
 * 📋 Add and manage restaurant listings, tables, and reservation slots
 * 🧾 Monitor all bookings and customer details
 * 🔐 JWT-secured Admin access
-
-### 🛠 Tech Stack:🧩 Built using ** MERN + Tailwind CSS + MongoDB Atals Storage + Framer Motion + JWT SECURITY **
+* 🛠 Tech Stack:🧩 Built using **MERN + Tailwind CSS + MongoDB Atals Storage + Framer Motion + JWT SECURITY **
 
 🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)
 🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)
