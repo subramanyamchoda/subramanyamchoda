@@ -10,6 +10,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda&style=flat-square)
 
 ---
+![Subramanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=subramanyamchoda&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact&theme=tokyonight)
 
 ## 🌐 Let's Connect
 
