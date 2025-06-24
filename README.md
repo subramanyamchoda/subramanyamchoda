@@ -10,8 +10,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda&style=flat-square)
 
 ---
-![Subramanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=subramanyamchoda&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact&theme=tokyonight)
 
 ## 🌐 Let's Connect
 
@@ -169,9 +167,10 @@ A real-time data visualization dashboard that simulates a **rainwater harvesting
 
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact&theme=tokyonight)
+![Subramanyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=subramanyamchoda&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subramanyamchoda&layout=compact&theme=tokyonight)
 
-> Both of these projects reflect real-world full-stack development experience, focusing on secure authentication, clean UI/UX, and efficient backend data handling.
+> these projects reflect real-world full-stack development experience, focusing on secure authentication, clean UI/UX, and efficient backend data handling.
 >  
 > They demonstrate skills in **REST APIs, React hooks, Express middleware, file management, role-based systems, and frontend-backend integration**.
 
