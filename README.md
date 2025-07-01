@@ -7,20 +7,14 @@
 💡 Open to collaboration on impactful and meaningful projects.  
 🌐 Portfolio: [subramanyamchoda.vercel.app](https://subramanyamchoda.vercel.app/)  
 📬 Reach out: **subramanyamchoda50@gmail.com**
-
 ![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda&style=flat-square)
 
 ---
-
 ## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subramanyam-choda-29238a305) [![Resume](https://img.shields.io/badge/Resume-%23121011.svg?style=flat&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/1ryRG9tWabKxn3npVao5etH6LKleJef3m/view?usp=sharing) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subramanyamchoda50@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@webdevwithpandas)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/subramanyam-choda-29238a305) [![Resume](https://img.shields.io/badge/Resume-%23121011.svg?style=flat&logo=GoogleDrive&logoColor=white)](https://drive.google.com/file/d/1HdmiHFaZf7kAu6ux95Zf1DPl_9fzTSA-/view?usp=sharing) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:subramanyamchoda50@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@webdevwithpandas)
 
 ---
-
 ## 💻 Tech Stack ![Stack](https://img.shields.io/badge/Stack-MERN-blueviolet)
-
 ### 🔹 Frontend & Backend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
