@@ -6,7 +6,8 @@
 📚 Proficient in **C, Java, Python, JavaScript**, with a deep interest in systems design and APIs.  
 💡 Open to collaboration on impactful and meaningful projects.  
 🌐 Portfolio: [subramanyamchoda.vercel.app](https://subramanyamchoda.vercel.app/)  
-📬 Reach out: **subramanyamchoda50@gmail.com**
+📬 Reach out: **subramanyamchoda50@gmail.com**  
+
 ![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda&style=flat-square)
 
 ---
