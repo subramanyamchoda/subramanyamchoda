@@ -7,23 +7,14 @@
 📚 Skilled in **C, Java, Python, JavaScript** — love turning ideas into impactful products  
 🚀 Explore my work: [Portfolio](https://subramanyamchoda.vercel.app/)  
 📬 Let's connect: **subramanyamchoda50@gmail.com**  
+LinkedIn:[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/subramanyamchoda/)
 ![Profile Views](https://komarev.com/ghpvc/?username=subramanyamchoda&style=flat-square)
-
----
 
 ![React](https://img.shields.io/badge/Frontend-React-blue)
 ![Node](https://img.shields.io/badge/Backend-Node.js-green)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-
-![Subramanyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=subramanyamchoda&show_icons=true&theme=tokyonight)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/subramanyamchoda/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/subramanyamchoda)
-![Repo Views](https://komarev.com/ghpvc/?username=subramanyamchoda&repo=panda-rest-adder&style=flat-square)
-![Issues](https://img.shields.io/github/issues/subramanyamchoda/panda-rest-adder)
-![Pull Requests](https://img.shields.io/github/issues-pr/subramanyamchoda/panda-rest-adder)
-![License](https://img.shields.io/github/license/subramanyamchoda/panda-rest-adder)
 ![Tech](https://img.shields.io/badge/Stack-MERN-blueviolet)
+---
 
 ## 🌐 Let's Connect
 
