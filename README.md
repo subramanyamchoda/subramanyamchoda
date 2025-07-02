@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subramanyam Choda</h1>
-<h3 align="center">Full Stack MERN Developer | Building Real-World Products</h3>
+<h3 align="center">Full Stack MERN Developer | Real-World Problem Solver | Exploring AI & ML</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/subramanyam-choda-29238a305" target="_blank">
@@ -24,15 +24,15 @@
 
 ## 🚀 About Me
 
-* 🔭 Building **secure, scalable full-stack apps** with the MERN stack
-* 🌱 Exploring **Cloud Architecture**, **Machine Learning**, **API Design**
-* 💡 Open to collaborating on **real-world projects**
-* 🧠 Languages: **C, Java, Python, JavaScript**
-* 🌐 [**Portfolio Website**](https://subramanyamchoda.vercel.app/)
+- 🔭 Passionate about building **secure, scalable full-stack web apps** with the MERN stack  
+- 🌱 Currently exploring **AI/ML** and **API Design**  
+- 💡 Open to collaborating on **real-world projects** and innovative ideas  
+- 🧠 Languages: **Java, Python, JavaScript**  
+- 🌐 [**Visit My Portfolio**](https://subramanyamchoda.vercel.app/)  
 
 ---
 
-## 🎯 Expertise Snapshot (MERN STACK)
+## 🎯 Expertise Snapshot (MERN Stack)
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="40" style="margin: 5px;" />
@@ -41,10 +41,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="40" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="40" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" height="40" style="margin: 5px;" />
 </p>
 
-
 ---
+
 ## 💻 Tech Stack
 
 ### 🧩 Frontend
@@ -113,47 +114,37 @@
 
 ## 🌟 Featured Projects
 
-### 🐼 PandaFiles – Secure File Manager
-
-🔗 [**Live Demo**](https://pandafiles.vercel.app/)
-
-> MERN + Tailwind + Framer Motion + MongoDB Atlas
-> ✅ Google OAuth2 | 🗂 File management | 🌙 Dark mode | 📈 Progress tracking
-
----
-
-### 💬 PandaChats – Real-Time Chat App
-
-🔗 [**Live Demo**](https://pandachats.vercel.app/)
-
-> MERN + Socket.IO + Google Auth
-> ✅ 1-on-1 & Group Chats | 📎 Media support | 🟢 Online indicators
+### 🍽 PandaRest – Restaurant Booking System  
+🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)  
+🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)  
+🔗 [API Server](https://panda-rest-server.onrender.com/)  
+> Booking System | Google OAuth2 | 🛡 Role Access | 📧 Notifications
 
 ---
 
-### 💧 Rainwater Harvesting Dashboard
-
-🔗 [**Live Demo**](https://pandarainwaterharvesting.vercel.app/)
-
-> Real-time Simulation | ⚡ Electricity Tracking | 📊 Chart.js
+### 🏠 EasyHomes – Smart Rental System  
+🔗 [**Live Demo**](https://easyhomes7.vercel.app/)  
+> JWT Auth | ₹50 Payments | 📄 Property Listings | 🔍 Filters  
 
 ---
 
-### 🏠 EasyHomes – Smart Rental System
-
-🔗 [**Live Demo**](https://easyhomes7.vercel.app/)
-
-> JWT Auth | ₹50 Payment | 📄 Listings | 🔍 Filters
+### 🐼 PandaFiles – Secure File Manager  
+🔗 [**Live Demo**](https://pandafiles.vercel.app/)  
+> MERN + Tailwind + Framer Motion + MongoDB Atlas  
+✅ Google OAuth2 | 🗂 File Management  | 📈 Progress Tracking  
 
 ---
 
-### 🍽 PandaRest – Restaurant Booking System
+### 💬 PandaChats – Real-Time Chat App  
+🔗 [**Live Demo**](https://pandachats.vercel.app/)  
+> MERN + Socket.IO + Google Auth  
+✅ 1-on-1 & Group Chats | 📎 Media Sharing | 🟢 Online Indicators  
 
-🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)
-🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)
-🔗 [API Server](https://panda-rest-server.onrender.com/)
+---
 
-> Booking System | OAuth2 | 🛡 Role Access | 📧 Notifications
+### 💧 Rainwater Harvesting Dashboard  
+🔗 [**Live Demo**](https://pandarainwaterharvesting.vercel.app/)  
+> Real-Time Simulation | ⚡ Electricity Tracking | 📊 Chart.js Visuals  
 
 ---
 
@@ -168,11 +159,12 @@
 
 ## ⚡ Fun Facts
 
-* 🔥 Passionate about **real-time apps & UI/UX**
-* 🎨 Love **TailwindCSS & Framer Motion** for smooth designs
-* 🛡 Focused on **JWT & OAuth2** security
-* 🔄 Experienced in **Socket.IO** live systems
+- 🔥 Love building **real-time apps & interactive UI/UX**  
+- 🎨 Enthusiast for **TailwindCSS & Framer Motion**  
+- 🛡 Strong focus on **JWT & OAuth2** security  
+- 🔄 Enjoy working on **Socket.IO** live systems  
+- 🤖 Excited about the future of **AI & ML** in web development  
 
 ---
 
-
+<!-- Crafted with ❤️ using GPRM & OpenAI assistance -->
