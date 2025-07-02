@@ -36,9 +36,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" height="40" style="margin: 5px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px;" />
-<img src="https://your-image-host.com/socketio-white-bg.png" height="40" style="margin: 5px;" />
 <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="40" style="margin: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px;" />
+
 
 
 </p>
