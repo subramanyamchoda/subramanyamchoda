@@ -36,17 +36,13 @@
 ## 🎯 Expertise Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,Socket.IO,postman,vercel,render" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,socketio,postman,vercel,render" />
+  <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" style="height:30px;margin-left:8px;" />
 </p>
 
 <p align="center">
   <b>MERN Stack · RESTful APIs · Real-Time Apps · Deployment</b>
 </p>
-
 
 ---
 
