@@ -37,12 +37,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" height="40" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px; background: white; border-radius: 8px; padding: 4px;" />
-  <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" height="40" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white"  height="40" style="margin: 5px; background: white; border-radius: 8px; padding: 4px;" />
 </p>
 
-<p align="center">
-  <b>MERN Stack · RESTful APIs · Real-Time Apps · Deployment</b>
-</p>
 
 ---
 
