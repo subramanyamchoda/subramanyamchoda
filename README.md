@@ -37,12 +37,16 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,socketio,postman,vercel,render" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 <p align="center">
-  <b>MERN Stack · REST APIs · Real-Time Apps · Deployment</b>
+  <b>MERN Stack · RESTful APIs · Real-Time Apps · Deployment</b>
 </p>
+
 
 ---
 
