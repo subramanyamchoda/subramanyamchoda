@@ -36,12 +36,15 @@
 ## 🎯 Expertise Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,socketio,postman,vercel,render" />
-  <img src="https://img.shields.io/badge/RESTful%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" style="height:30px;margin-left:8px;" />
-</p>
-
-<p align="center">
-  <b>MERN Stack · RESTful APIs · Real-Time Apps · Deployment</b>
+  <img src="https://skillicons.dev/icons?i=react" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px; background: white; border-radius: 8px; padding: 4px;" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=render" height="40" style="margin: 5px;" />
 </p>
 
 ---
