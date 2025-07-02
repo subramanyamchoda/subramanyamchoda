@@ -36,7 +36,7 @@
 ## 🎯 Expertise Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,socketio,postman,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,Socket.IO,postman,vercel,render" />
 </p>
 
 <p align="center">
