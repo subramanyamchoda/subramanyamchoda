@@ -49,39 +49,52 @@
 
 ## 🎨 Full Skills Showcase
 
-<div align="center">
-<table cellpadding="10">
-  <tr>
-    <th align="center">Frontend</th>
-    <th align="center">Backend</th>
-    <th align="center">Databases</th>
-    <th align="center">Tools & Hosting</th>
-    <th align="center">Languages</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
-      React · Tailwind · Vite · HTML · CSS · JS
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,rest,graphql" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
-      Node.js · Express · REST · GraphQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
-      MongoDB · MySQL · Firebase
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman,socketio" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
-      Git · GitHub · Vercel · Render · Postman · Socket.IO
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python,java,c" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
-      Python · Java · C
-    </td>
-  </tr>
-</table>
-</div>
+## 💻 Tech Stack & Tools ![Stack](https://img.shields.io/badge/MERN%20Stack-blueviolet?style=flat-square)
+
+### 🧩 **Frontend & Backend**
+<p>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+</p>
+
+---
+
+### 🔌 **APIs, Tools & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+### 🖥️ **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+---
+
+### 🗄️ **Databases & Hosting**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+
 
 ---
 
