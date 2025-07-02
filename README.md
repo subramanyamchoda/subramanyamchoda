@@ -33,26 +33,22 @@
 * 🌐 [**Portfolio**](https://subramanyamchoda.vercel.app/)
 
 ---
-
-## 🎯 Expertise & Key Skills
+## 🎯 Expertise Snapshot
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
-  <img src="https://skillicons.dev/icons?i=express,tailwind,socketio" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
-  <img src="https://skillicons.dev/icons?i=rest,graphql,git" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
-  <img src="https://skillicons.dev/icons?i=postman,vercel" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,socketio,rest,postman,vercel,render" style="padding:8px;" />
 </p>
 
-*Core MERN, Real-time, API & Deployment Skills*
+<p align="center">
+  <b>MERN Stack · Real-Time Apps · REST APIs · Deployment Ready</b>
+</p>
 
 ---
 
 ## 🎨 Full Skills Showcase
 
-## 💻 Tech Stack & Tools ![Stack](https://img.shields.io/badge/MERN%20Stack-blueviolet?style=flat-square)
-
-### 🧩 **Frontend & Backend**
-<p>
+### 💻 **Frontend & Backend**
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB" />
@@ -66,7 +62,7 @@
 ---
 
 ### 🔌 **APIs, Tools & DevOps**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -80,7 +76,7 @@
 ---
 
 ### 🖥️ **Programming Languages**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -90,14 +86,12 @@
 ---
 
 ### 🗄️ **Databases & Hosting**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
-
 ---
-
 ## 🌟 Featured Projects
 
 ### 🐼 PandaFiles – Secure File Manager
