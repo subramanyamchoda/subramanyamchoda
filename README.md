@@ -37,6 +37,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" height="40" style="margin: 5px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px;" />
+<p align="center">
+  <b style="color: gray;">Note: Socket.IO icon may appear invisible on white background due to its white color</b><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px;" />
+</p>
+
 </p>
 
 ---
