@@ -42,11 +42,8 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" style="margin: 5px; background: white; border-radius: 8px; padding: 4px;" />
-  <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=flat-square&logo=api&logoColor=white" height="40" style="margin: 5px; border-radius: 6px;" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=render" height="40" style="margin: 5px;" />
 </p>
+
 
 
 ---
