@@ -26,18 +26,30 @@
 
 ## 🚀 About Me
 
-- 🔭 Building **secure, scalable full-stack apps** with the MERN stack  
-- 🌱 Exploring **Cloud Architecture**, **Machine Learning**, **API Design**  
-- 🧠 Languages: **C, Java, Python, JavaScript**  
-- 💡 Open to collaborating on **real-world projects**  
-- 🌐 [**Portfolio**](https://subramanyamchoda.vercel.app/)  
+* 🔭 Building **secure, scalable full-stack apps** with the MERN stack
+* 🌱 Exploring **Cloud Architecture**, **Machine Learning**, **API Design**
+* 🧠 Languages: **C, Java, Python, JavaScript**
+* 💡 Open to collaborating on **real-world projects**
+* 🌐 [**Portfolio**](https://subramanyamchoda.vercel.app/)
 
 ---
 
-## 🎨 Skills Showcase
+## 🎯 Expertise & Key Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
+  <img src="https://skillicons.dev/icons?i=express,tailwind,socketio" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
+  <img src="https://skillicons.dev/icons?i=rest,graphql,git" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
+  <img src="https://skillicons.dev/icons?i=postman,vercel" style="border-radius:50%;padding:12px;background:#f0f0f0;" width="80" />
+</p>
+
+*Core MERN, Real-time, API & Deployment Skills*
+
+---
+
+## 🎨 Full Skills Showcase
 
 <div align="center">
-
 <table cellpadding="10">
   <tr>
     <th align="center">Frontend</th>
@@ -52,7 +64,7 @@
       React · Tailwind · Vite · HTML · CSS · JS
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,rest,graphql" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,rest,graphql" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
       Node.js · Express · REST · GraphQL
     </td>
     <td align="center">
@@ -69,44 +81,53 @@
     </td>
   </tr>
 </table>
-
 </div>
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🐼 PandaFiles – Secure File Manager  
-🔗 [**Live Demo**](https://pandafiles.vercel.app/)  
-> MERN + Tailwind + Framer Motion + MongoDB Atlas  
-✅ Google OAuth2 | 🗂 File management | 🌙 Dark mode | 📈 Progress tracking  
+### 🐼 PandaFiles – Secure File Manager
+
+🔗 [**Live Demo**](https://pandafiles.vercel.app/)
+
+> MERN + Tailwind + Framer Motion + MongoDB Atlas
+> ✅ Google OAuth2 | 🗂 File management | 🌙 Dark mode | 📈 Progress tracking
 
 ---
 
-### 💬 PandaChats – Real-Time Chat App  
-🔗 [**Live Demo**](https://pandachats.vercel.app/)  
-> MERN + Socket.IO + Google Auth  
-✅ 1-on-1 & Group Chats | 📎 Media support | 🟢 Online indicators  
+### 💬 PandaChats – Real-Time Chat App
+
+🔗 [**Live Demo**](https://pandachats.vercel.app/)
+
+> MERN + Socket.IO + Google Auth
+> ✅ 1-on-1 & Group Chats | 📎 Media support | 🟢 Online indicators
 
 ---
 
-### 💧 Rainwater Harvesting Dashboard  
-🔗 [**Live Demo**](https://pandarainwaterharvesting.vercel.app/)  
-> Real-time Simulation | ⚡ Electricity Tracking | 📊 Chart.js  
+### 💧 Rainwater Harvesting Dashboard
+
+🔗 [**Live Demo**](https://pandarainwaterharvesting.vercel.app/)
+
+> Real-time Simulation | ⚡ Electricity Tracking | 📊 Chart.js
 
 ---
 
-### 🏠 EasyHomes – Smart Rental System  
-🔗 [**Live Demo**](https://easyhomes7.vercel.app/)  
-> JWT Auth | ₹50 Payment | 📄 Listings | 🔍 Filters  
+### 🏠 EasyHomes – Smart Rental System
+
+🔗 [**Live Demo**](https://easyhomes7.vercel.app/)
+
+> JWT Auth | ₹50 Payment | 📄 Listings | 🔍 Filters
 
 ---
 
-### 🍽 PandaRest – Restaurant Booking System  
-🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)  
-🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)  
-🔗 [API Server](https://panda-rest-server.onrender.com/)  
-> Booking System | OAuth2 | 🛡 Role Access | 📧 Notifications  
+### 🍽 PandaRest – Restaurant Booking System
+
+🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)
+🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)
+🔗 [API Server](https://panda-rest-server.onrender.com/)
+
+> Booking System | OAuth2 | 🛡 Role Access | 📧 Notifications
 
 ---
 
@@ -121,10 +142,10 @@
 
 ## ⚡ Fun Facts
 
-- 🔥 Passionate about **real-time apps & UI/UX**  
-- 🎨 Love **TailwindCSS & Framer Motion** for smooth designs  
-- 🛡 Focused on **JWT & OAuth2** security  
-- 🔄 Experienced in **Socket.IO** live systems  
+* 🔥 Passionate about **real-time apps & UI/UX**
+* 🎨 Love **TailwindCSS & Framer Motion** for smooth designs
+* 🛡 Focused on **JWT & OAuth2** security
+* 🔄 Experienced in **Socket.IO** live systems
 
 ---
 
