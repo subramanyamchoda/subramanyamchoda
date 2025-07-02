@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <h1 align="center">Hi 👋, I'm Subramanyam Choda</h1>
-<h3 align="center">Full Stack MERN Developer | Exploring Machine Learning</h3>
+<h3 align="center">Full Stack MERN Developer</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/subramanyam-choda-29238a305" target="_blank">
@@ -27,33 +27,48 @@
 ## 🚀 About Me
 
 - 🔭 Building **secure, scalable full-stack apps** with the MERN stack  
-- 🌱 Exploring **Cloud Architecture**, **Machine Learning**, and **API Design**  
+- 🌱 Exploring **Cloud Architecture**, **Machine Learning**, **API Design**  
 - 🧠 Languages: **C, Java, Python, JavaScript**  
-- 💡 Open to collaborating on **real-world impactful projects**  
-- 🌐 [**My Portfolio**](https://subramanyamchoda.vercel.app/)  
+- 💡 Open to collaborating on **real-world projects**  
+- 🌐 [**Portfolio**](https://subramanyamchoda.vercel.app/)  
 
 ---
 
-## 🛠️ Tech Stack
+## 🎨 Skills Showcase
 
 <div align="center">
 
-### 💻 Frontend & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,vite,chartjs" />
-
-### 🔌 Tools & APIs
-<img src="https://skillicons.dev/icons?i=postman,git,github,vercel,render" />  
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-
-### ☁️ Databases & Hosting
-<img src="https://skillicons.dev/icons?i=mysql,firebase" />
-
-### 🧠 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,python,java,c" />
-
-### 📊 Machine Learning & Data
-<img src="https://skillicons.dev/icons?i=numpy,pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<table cellpadding="10">
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">Databases</th>
+    <th align="center">Tools & Hosting</th>
+    <th align="center">Languages</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,js" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
+      React · Tailwind · Vite · HTML · CSS · JS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,rest,graphql" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
+      Node.js · Express · REST · GraphQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
+      MongoDB · MySQL · Firebase
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,render,postman,socketio" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
+      Git · GitHub · Vercel · Render · Postman · Socket.IO
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,java,c" style="border-radius:50%;padding:8px;background:#f7f7f7;" width="60" /><br>
+      Python · Java · C
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -70,20 +85,20 @@
 
 ### 💬 PandaChats – Real-Time Chat App  
 🔗 [**Live Demo**](https://pandachats.vercel.app/)  
-> MERN Stack + Socket.IO + Google Auth  
+> MERN + Socket.IO + Google Auth  
 ✅ 1-on-1 & Group Chats | 📎 Media support | 🟢 Online indicators  
 
 ---
 
 ### 💧 Rainwater Harvesting Dashboard  
 🔗 [**Live Demo**](https://pandarainwaterharvesting.vercel.app/)  
-> Real-time Simulation | ⚡ Electricity Tracking | 📊 Charts with Chart.js  
+> Real-time Simulation | ⚡ Electricity Tracking | 📊 Chart.js  
 
 ---
 
 ### 🏠 EasyHomes – Smart Rental System  
 🔗 [**Live Demo**](https://easyhomes7.vercel.app/)  
-> JWT Auth | ₹50 Payment Gateway | 📄 Listing Management | 🔍 Filtering System  
+> JWT Auth | ₹50 Payment | 📄 Listings | 🔍 Filters  
 
 ---
 
@@ -91,7 +106,7 @@
 🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)  
 🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)  
 🔗 [API Server](https://panda-rest-server.onrender.com/)  
-> Full-featured Booking | Google OAuth2 | 🛡 Role-based access | 📧 Email Notifications  
+> Booking System | OAuth2 | 🛡 Role Access | 📧 Notifications  
 
 ---
 
@@ -107,9 +122,9 @@
 ## ⚡ Fun Facts
 
 - 🔥 Passionate about **real-time apps & UI/UX**  
-- 🎨 Love working with **TailwindCSS & Framer Motion** for smooth, responsive designs  
-- 🛡 Focused on **secure authentication with JWT & OAuth2**  
-- 🔄 Experienced in **real-time systems with Socket.IO**  
+- 🎨 Love **TailwindCSS & Framer Motion** for smooth designs  
+- 🛡 Focused on **JWT & OAuth2** security  
+- 🔄 Experienced in **Socket.IO** live systems  
 
 ---
 
