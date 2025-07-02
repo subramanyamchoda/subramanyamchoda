@@ -114,37 +114,38 @@
 
 ## 🌟 Featured Projects
 
-### 🍽 PandaRest – Restaurant Booking System  
-🔗 [User Portal](https://pandarestaurantsuser.vercel.app/)  
-🔗 [Admin Portal](https://pandarestaurantsadder.vercel.app/)  
-🔗 [API Server](https://panda-rest-server.onrender.com/)  
-> Booking System | Google OAuth2 | 🛡 Role Access | 📧 Notifications
+### 🍽️ PandaRest – Restaurant Booking System  
+**Tech Stack:** MERN · TailwindCSS · Framer Motion · MongoDB Atlas · Google OAuth2 · JWT  
+✅ Table Booking · Role-based Admin · Email Notifications · Responsive UI  
+🔒 Secure Booking Flow with Authentication & Real-time Availability  
 
 ---
 
 ### 🏠 EasyHomes – Smart Rental System  
-🔗 [**Live Demo**](https://easyhomes7.vercel.app/)  
-> JWT Auth | ₹50 Payments | 📄 Property Listings | 🔍 Filters  
+**Tech Stack:** MERN · TailwindCSS · Framer Motion · MongoDB Atlas · ₹50 Payment · Google OAuth2  
+✅ Property Listings · Contact Access After Payment · Owner/Tenant Dashboards · JWT Auth  
+🔒 Role-Based Access with Secure Payments & Filtered Search  
 
 ---
 
 ### 🐼 PandaFiles – Secure File Manager  
-🔗 [**Live Demo**](https://pandafiles.vercel.app/)  
-> MERN + Tailwind + Framer Motion + MongoDB Atlas  
-✅ Google OAuth2 | 🗂 File Management  | 📈 Progress Tracking  
+**Tech Stack:** MERN · TailwindCSS · Framer Motion · MongoDB Atlas · Google OAuth2 · Socket.IO  
+✅ Secure File Upload/Download (GridFS) · Real-Time Progress · Dark Mode · Google Auth  
+🔒 File Protection with Real-Time Status & OAuth2 Security  
 
 ---
 
 ### 💬 PandaChats – Real-Time Chat App  
-🔗 [**Live Demo**](https://pandachats.vercel.app/)  
-> MERN + Socket.IO + Google Auth  
-✅ 1-on-1 & Group Chats | 📎 Media Sharing | 🟢 Online Indicators  
+**Tech Stack:** MERN · TailwindCSS · Socket.IO · MongoDB Atlas · Google OAuth2  
+✅ 1-on-1 & Group Chats · Typing Indicators · Media Sharing · JWT Security  
+🔒 Real-Time Presence, Media Sharing & Secure Messaging  
 
 ---
 
 ### 💧 Rainwater Harvesting Dashboard  
-🔗 [**Live Demo**](https://pandarainwaterharvesting.vercel.app/)  
-> Real-Time Simulation | ⚡ Electricity Tracking | 📊 Chart.js Visuals  
+**Tech Stack:** MERN · TailwindCSS · Socket.IO · Chart.js · ML Prediction Logic  
+✅ Real-Time Sensor Simulation · Live Charts · Data Predictions · Interactive Dashboard  
+🔒 Sensor Data Monitoring with Predictive ML & Analytics  
 
 ---
 
